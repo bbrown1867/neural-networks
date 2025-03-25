@@ -1,2 +1,3 @@
 # neural-networks
-Learning about neural networks
+
+Learning about neural networks.

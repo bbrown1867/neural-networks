@@ -1,0 +1,9 @@
+black
+flake8
+graphviz
+isort
+jedi-language-server
+matplotlib
+numpy
+pycodestyle
+torch
